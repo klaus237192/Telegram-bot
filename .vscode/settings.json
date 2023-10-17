@@ -1,0 +1,36 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "asecret",
+    "atoken",
+    "backslashreplace",
+    "Botfather",
+    "captureutil",
+    "ckey",
+    "csecret",
+    "dataframe",
+    "fabston",
+    "formdata",
+    "fstring",
+    "Hskiw",
+    "Iwbso",
+    "mydatabase",
+    "pymongo",
+    "referer",
+    "sessionidc",
+    "signin",
+    "sourcery",
+    "tablefmt",
+    "tblfmt",
+    "telegrambot",
+    "testbird",
+    "tradingview",
+    "tvchart",
+    "tvcoins",
+    "TWAPI",
+    "tweepy"
+  ]
+}
